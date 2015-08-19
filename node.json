@@ -1,3 +1,0 @@
-{
-  "run_list": [ "recipe[cookbook::recipe1]","recipe[cookbook::recipe2]" ]
-}
